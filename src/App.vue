@@ -1,7 +1,9 @@
+<script>
+export default {}
+</script>
+
 <template>
-  <div>111</div>
+  <div></div>
 </template>
 
-<style lang="less">
-
-</style>
+<style></style>
