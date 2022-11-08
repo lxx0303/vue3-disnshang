@@ -1,9 +1,10 @@
-<script>
-export default {}
+<script setup lang="less">
+
 </script>
 
 <template>
-  <div></div>
+  <div>
+  </div>
 </template>
 
 <style></style>
